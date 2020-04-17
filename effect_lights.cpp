@@ -67,6 +67,30 @@ void push(){
 		return;
 	}
 }
+void effect1(int n){
+	pta (90);
+	push();
+	Sleep(2);
+	for (int i=1;i<=n;++i){
+		pta (i);
+		push();
+		Sleep(5);
+	}
+	for (int i=n+1;i<=87;++i){
+		pta (i);
+		pta (i-n);
+		push ();
+		Sleep (5);
+	}
+	for (int i=88-n;i<= 87;++i){
+		pta (i);
+		push ();
+		Sleep (5);
+	}
+	pta (91);
+	push();
+	Sleep(2);
+}
 //注：控制台文字全部英文以防止由于编码不同带来的乱码问题 
 
 int main (){
@@ -160,7 +184,7 @@ int main (){
 					printf ("\nChange_Color:%d %d %d\n",color[ch-49].r,color[ch-49].g,color[ch-49].b);
 				}
 				else if (ch == 48){
-					//effect1();
+					effect1(10);
 					printf ("\nEffect1\n");
 				}
 				else if (ch == 45){
