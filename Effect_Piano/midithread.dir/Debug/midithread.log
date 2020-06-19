@@ -1,0 +1,5 @@
+﻿  midithread.c
+midithread.c(299): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+  midithread.vcxproj -> C:\software\从usb实时读取midi\试做项目\portmidi-src-217\portmidi\pm_test\Debug\midithread.exe
+  midithread.vcxproj -> ../pm_test/Debug/midithread.pdb (Full PDB)

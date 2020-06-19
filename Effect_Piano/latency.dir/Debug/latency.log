@@ -1,0 +1,5 @@
+﻿  latency.c
+latency.c(285): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  latency.vcxproj -> C:\software\从usb实时读取midi\试做项目\portmidi-src-217\portmidi\pm_test\Debug\latency.exe
+  latency.vcxproj -> ../pm_test/Debug/latency.pdb (Full PDB)
