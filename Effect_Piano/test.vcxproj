@@ -13,7 +13,8 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{0BEACB8B-4058-41A4-A9DE-1B1FB650B21A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <ProjectName>test</ProjectName>
+    <ProjectName>Effect_Piano</ProjectName>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
@@ -49,7 +50,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <OutDir>Release\</OutDir>
-    <IntDir>test.dir\Release\</IntDir>
+    <IntDir>Effect_Piano.dir\Release\</IntDir>
     <GenerateManifest>true</GenerateManifest>
     <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
@@ -69,6 +70,7 @@
       <AssemblerListingLocation>Debug</AssemblerListingLocation>
       <ObjectFileName>$(IntDir)</ObjectFileName>
       <ProgramDataBaseFileName>../pm_test/Debug/test.pdb</ProgramDataBaseFileName>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
     </ClCompile>
     <ResourceCompile>
       <AdditionalIncludeDirectories>..\pm_common;..\porttime;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
@@ -101,8 +103,8 @@
     <ClCompile>
       <AdditionalOptions> /Zm1000 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalIncludeDirectories>..\pm_common;..\porttime;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <CompileAs>CompileAsC</CompileAs>
-      <ExceptionHandling />
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
       <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
       <Optimization>MaxSpeed</Optimization>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
@@ -110,7 +112,7 @@
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <AssemblerListingLocation>Release</AssemblerListingLocation>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>../pm_test/Release/test.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>/Release/Effect_Piano.pdb</ProgramDataBaseFileName>
     </ClCompile>
     <ResourceCompile>
       <AdditionalIncludeDirectories>..\pm_common;..\porttime;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
@@ -131,9 +133,9 @@
     <Link>
       <AdditionalOptions> /STACK:10000000 /machine:I386 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\Release\portmidi_s.lib;winmm.lib</AdditionalDependencies>
-      <OutputFile>..\pm_test\Release\test.exe</OutputFile>
+      <OutputFile>Release\Effect_Piano.exe</OutputFile>
       <Version>0.0</Version>
-      <ProgramDatabaseFile>../pm_test/Release/test.pdb</ProgramDatabaseFile>
+      <ProgramDatabaseFile>/Release/Effect_Piano.pdb</ProgramDatabaseFile>
       <SubSystem>Console</SubSystem>
       <ImportLibrary>..\pm_test\Release\test.lib</ImportLibrary>
     </Link>
@@ -149,7 +151,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Effect_Piano.cpp" />
+    <ClCompile Include="Effect_Piano.cpp">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">CompileAsCpp</CompileAs>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

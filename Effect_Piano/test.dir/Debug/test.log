@@ -12,79 +12,79 @@ Effect_Piano.cpp(89): warning C4996: 'freopen': This function or variable may be
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
 Effect_Piano.cpp(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(310): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
 Effect_Piano.cpp(312): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(402): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(404): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(405): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(423): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(407): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(425): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(428): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(560): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(430): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+Effect_Piano.cpp(565): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(561): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(566): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(562): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(567): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(572): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(577): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(577): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(582): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(590): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(595): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(594): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(599): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(595): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(600): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(596): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(601): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(606): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(611): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(607): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(612): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(608): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(613): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(610): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(615): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(611): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(616): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(622): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(627): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(627): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(632): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(629): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(634): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(630): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(635): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(636): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(641): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(641): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(646): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(644): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(649): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(645): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(650): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(647): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(652): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(661): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(666): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-Effect_Piano.cpp(662): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
 Effect_Piano.cpp(667): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
 Effect_Piano.cpp(672): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(679): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(677): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(687): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(684): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-Effect_Piano.cpp(691): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Effect_Piano.cpp(692): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+Effect_Piano.cpp(696): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
-c:\software\_特效钢琴\effect_piano_正式项目\con版本\efp\effect_piano\effect_piano.cpp(128): warning C4715: “serialopen”: 不是所有的控件路径都返回值
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\software\_特效钢琴\Effect_Piano_正式项目\CON版本\EFP\Effect_Piano\Debug\test.exe) does not match the Linker's OutputFile property value (C:\software\_特效钢琴\Effect_Piano_正式项目\CON版本\EFP\pm_test\Debug\test.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-  test.vcxproj -> C:\software\_特效钢琴\Effect_Piano_正式项目\CON版本\EFP\Effect_Piano\Debug\test.exe
+c:\software\_特效钢琴\effect_piano_正式项目\con版本\efp_new\effect_piano\effect_piano.cpp(128): warning C4715: “serialopen”: 不是所有的控件路径都返回值
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\software\_特效钢琴\Effect_Piano_正式项目\CON版本\EFP_new\Effect_Piano\Debug\test.exe) does not match the Linker's OutputFile property value (C:\software\_特效钢琴\Effect_Piano_正式项目\CON版本\EFP_new\pm_test\Debug\test.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  test.vcxproj -> C:\software\_特效钢琴\Effect_Piano_正式项目\CON版本\EFP_new\Effect_Piano\Debug\test.exe
   test.vcxproj -> ../pm_test/Debug/test.pdb (Full PDB)
